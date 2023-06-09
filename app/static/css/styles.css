@@ -1,0 +1,29 @@
+    body {
+     font-family: sans-serif;
+     margin-top: 40px;
+}
+
+   .regform {
+     width: 800px;
+     margin: auto;
+     color: black;
+     padding: 10px, 0px, 10px, 0px;
+     text-align: center;
+     border-radius: 15px, 15px, 0px, 0px;
+}
+
+
+   .main-form {
+     width: 800px;
+     margin: auto;
+     padding-left: 50px;
+     padding-right: 50px;
+     color: #ffffff;
+}
+
+   img {
+     max-height: 400px;
+     max-width: 500px;
+     height: auto;
+     width: auto;
+}
